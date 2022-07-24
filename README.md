@@ -1,4 +1,4 @@
-## DISCORD BOT
+## MORTGAGE CALCULATOR
 
 **Version 1.0.0**
 
